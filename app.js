@@ -2,7 +2,7 @@
 // For demonstration purposes only
 'use strict';
 
-sdadasfadsfas var express = require('express'),
+var express = require('express'),
     app = express();
 
 app.set('views', 'views');
