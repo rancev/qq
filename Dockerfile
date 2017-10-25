@@ -17,6 +17,3 @@ RUN cd /src; npm install express jade
 EXPOSE 8080
 
 CMD cd /src && node ./app.js
-
-
-
